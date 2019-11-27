@@ -18,7 +18,7 @@ def hopper
           :known_for => "Unix",
           :languages => ["C"]
           :Search => "Browser",
-          :Popular=> "Google hro"
+          :Popular=> "Google Chrome","Firefox",
         }
      }
 
